@@ -1,0 +1,6 @@
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/prufer-code/prufer-code/bin/Debug/prufer_code.exe
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/prufer-code/prufer-code/bin/Debug/prufer_code.pdb
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/prufer-code/prufer-code/obj/Debug/prufer-code.csprojAssemblyReference.cache
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/prufer-code/prufer-code/obj/Debug/prufer-code.csproj.CoreCompileInputs.cache
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/prufer-code/prufer-code/obj/Debug/prufer_code.exe
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/prufer-code/prufer-code/obj/Debug/prufer_code.pdb
